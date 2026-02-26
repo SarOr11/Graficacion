@@ -1,17 +1,17 @@
 # Unidad I: Introducción a la graficación por computadora
 
 ## Índice
-[1.1 Historia y y Evolución de la Graficación por Computadora](#1.1-historia-y-evolución-de-la-graficación-por-computadora)
+[1.1 Historia y y Evolución de la Graficación por Computadora](#11-historia-y-y-evolución-de-la-graficación-por-computadora)
 
-[1.2 Áreas de Aplicación](#1.2-áreas-de-aplicación)
+[1.2 Áreas de Aplicación](#12-áreas-de-aplicación)
 
-[1.3 Aspectos Matemáticos de la Graficación](#1.3-aspectos-matemáticos-de-la-graficación)
+[1.3 Aspectos Matemáticos de la Graficación](#13-aspectos-matemáticos-de-la-graficación)
 
-[1.4. Modelos del Color RGB, CMY y HSV](#1.4-modelos-del-color-rgb-cmy-y-hsv)
+[1.4. Modelos del Color RGB, CMY y HSV](#14-modelos-del-color-rgb-cmy-y-hsv)
 
-[1.5. Representación y Trazo de Líneas y Polígonos](#1.5-representación-y-trazo-de-líneas-y-polígonos)
+[1.5. Representación y Trazo de Líneas y Polígonos](#15-representación-y-trazo-de-líneas-y-polígonos)
 
-[1.6. Procesamiento de Mapas de Bits](#1.6-procesamiento-de-mapas-de-bits)
+[1.6. Procesamiento de Mapas de Bits](#16-procesamiento-de-mapas-de-bits)
 
 [Referencias](#referencias)
 
